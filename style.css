@@ -18,7 +18,7 @@
    position: absolute;
    height: 5rem;
    top: 23rem;
-   left: 22%;
+   left: 19%;
 }
 .profile{
     padding-top: 50px;
@@ -132,6 +132,7 @@ p{
     color: rgb(94, 94, 94);
     padding-bottom: 0%;
     margin-bottom: 0rem;
+    font-size:14px;
 }
 .cnt-disc
 {
